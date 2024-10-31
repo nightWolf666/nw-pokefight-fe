@@ -19,6 +19,7 @@ import rockIcon from "../icons/rock.png";
 import shadowIcon from "../icons/shadow.png";
 import steelIcon from "../icons/steel.png";
 import waterIcon from "../icons/water.png";
+import stellarIcon from "../icons/stellar.png";
 
 const buttonIcons = {
     bug: bugIcon,
@@ -40,7 +41,8 @@ const buttonIcons = {
     unknown: unknownIcon,
     steel: steelIcon,
     shadow: shadowIcon,
-    water: waterIcon
+    water: waterIcon,
+    stellar: stellarIcon
   };
 
 
